@@ -1,10 +1,6 @@
-# Pokedex - Stack + Tabs + Drawer
-
-App de practica con arquitectura limpia usando React 19 + Vite + React Router 7
-y la API publica de PokeAPI (https://pokeapi.co).
 
 ## Patrones de navegacion
-- Drawer: menu lateral global.
+y la API publica de PokeAPI (https://pokeapi.co).
 - Tabs: filtros dentro de la Pokedex (Todos / Tipos / Generaciones).
 - Stack: lista -> detalle del Pokemon.
 
