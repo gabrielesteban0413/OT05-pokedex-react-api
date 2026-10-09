@@ -1,7 +1,7 @@
 :root {
   --brand: #e11d48;
-  --brand-2: #2563eb;
-  --bg: #f8fafc;
+  --brand-2: #9e0000;
+  --bg: hsl(0, 100%, 92%);
   --text: #0f172a;
   --muted: #64748b;
   --border: #e2e8f0;
